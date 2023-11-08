@@ -103,7 +103,8 @@ accuracy_score(Y_valid,xg1_val)
 ## Test accuracy: 0.41203281677301734
 ```  
     
-7. 使用2種模型投票結果   
+7. 使用2種模型投票結果
+     - 交易手續費為2   
   ```shell
 value = 0
 value_list = []
